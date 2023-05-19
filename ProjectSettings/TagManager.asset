@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Missile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - bg
+  - Water
+  - UI
+  - bac
+  - item
+  - nuoc
+  - player
+  - boss
+  - dich
+  - bullet
+  - bacDie
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bac
+    uniqueID: 1702254275
+    locked: 0
+  - name: item
+    uniqueID: 3696275567
+    locked: 0
+  - name: player
+    uniqueID: 65889831
+    locked: 0
+  - name: boss
+    uniqueID: 2813593317
+    locked: 0
+  - name: bullet
+    uniqueID: 1062189863
+    locked: 0
+  - name: nuoc
+    uniqueID: 3184285865
+    locked: 0
+  - name: cauDo
+    uniqueID: 720712921
+    locked: 0
